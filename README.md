@@ -24,9 +24,9 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 # GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=lyca-byte&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=callmebyyll&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=lyca-byte&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lyca-byte&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=callmebyyll&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # MonkeyType Stats:
 [![Monkeytype Stats](https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=ig_0xpng&bg_color=000000&title_color=ff0000&text_color=ffffff&font=monospace)](https://github.com/francisdav1d/monkeytype-readme-stats)
