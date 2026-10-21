@@ -24,8 +24,6 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 # GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=callmebyyll&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=lyca-byte&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=callmebyyll&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # MonkeyType Stats:
