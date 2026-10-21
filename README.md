@@ -23,7 +23,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-# GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=callmebyyll&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # MonkeyType Stats:
