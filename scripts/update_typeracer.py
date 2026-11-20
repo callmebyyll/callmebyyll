@@ -2,7 +2,7 @@ import urllib.request
 import json
 import re
 
-TR_USERNAME = "0xpng"  # Ganti ke "byyll" jika username TypeRacer-mu byyll
+TR_USERNAME = "byyll"  # Ganti ke "byyll" jika username TypeRacer-mu byyll
 API_URL = f"https://typeracer.com:{TR_USERNAME}"
 
 req = urllib.request.Request(API_URL, headers={"User-Agent": "Mozilla/5.0"})
